@@ -16,6 +16,7 @@ git push origin master      ->Enviar cambios a repositorio remoto
 git push origin -d Gonzalez ->Borrar rama en remoto
 git branch -d Gonzalez      ->Borrar directorio local
 
+//Comentario
 ------
 git checkout master            ->Entrar a directorio master
 git pull origin master         ->Descargar ultimo commit que se hizo
