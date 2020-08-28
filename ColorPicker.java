@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Scanner;
 public class ColorPicker {
 	static int cont=0;
-	//Prime
+	//Primer Cambio
     public static void main(String[] args) throws InterruptedException {
     Color color;
 	
