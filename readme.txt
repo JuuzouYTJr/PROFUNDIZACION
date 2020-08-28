@@ -25,7 +25,7 @@ git checkout nombre_rama       ->Entrar a directorio rama
 //Hacer cambio a programa
 git add -A                     ->Registrar cambios
 git commit -m "Comentario"
-git push nombre_rama           ->Subir al repositorio remoto
+git push origin nombre_rama           ->Subir al repositorio remoto
 git branch --merged            ->Vincular master y rama
 git merge nombre_rama       
 git push origin master         ->Subir al remoto
